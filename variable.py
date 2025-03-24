@@ -20,3 +20,21 @@ print(type(is_std));  #remember one thing we can convert any type of expect char
 
 
 
+# variable are container for future use it is a fundamental concept in programming
+#no variable decalrae can directly used in python 
+#its called dynamic typing (no need to decalrae data type)
+# static typing - decalrae varriable type 
+#no virable is binded to specific  like yeutai varibale multiple data type store garxa its called dynamic binding
+
+
+
+#special syntax
+a=5;b=6;c=7
+print(a)
+print(b)
+print(c)
+
+a,b,c=4,5,6
+print(a)
+print(b)
+print(c)

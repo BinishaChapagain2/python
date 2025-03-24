@@ -1,4 +1,4 @@
-# basically used for input from input
+# basically used for input from user
 name=input("Enter your name:")
 print(f"your name is : {name}")
 print(type(name)) 
